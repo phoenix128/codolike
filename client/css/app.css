@@ -1,0 +1,21 @@
+.codo_posts_post_action .glyphicon  {
+    color: #333333;
+}
+
+.codo_like_counter {
+    line-height: 20px;
+    background: #cccccc;
+    color: #333333;
+    width: 40px;
+    border-radius: 0 0 0 0 !important;
+}
+
+.codo_like_users {
+    float: left;
+    font-size: 11px;
+}
+
+.codo_like_users span {
+    color: #dddddd;
+    font-weight: bold;
+}
