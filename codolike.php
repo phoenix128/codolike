@@ -20,7 +20,7 @@ function codolike_add_assets() {
 
     $codoLikeAdapter = new CodoLikeAdapter();
     $codoLikeAdapter->add_css(codolike::$path . "client/css/app.css");
-    $codoLikeAdapter->add_js("http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js");
+    //$codoLikeAdapter->add_js("http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js");
     $codoLikeAdapter->add_js(codolike::$path . "client/js/app.js");
 }
 
